@@ -1,0 +1,5 @@
+com\unisoma\teste2\Util\SalarioDoFuncionario.class
+com\unisoma\teste2\Teste2Application.class
+com\unisoma\teste2\controller\ImpostoDeRendaCOntroller.class
+com\unisoma\teste2\DTO\ImpostoDeRendaDTO.class
+com\unisoma\teste2\services\ImpostoDeRendaService.class
