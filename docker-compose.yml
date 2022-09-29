@@ -14,7 +14,7 @@ services:
     container_name: unisoma_teste_api_geral
     build: 
       context: .
-      dockerfile: exercios1\Dockerfile
+      dockerfile: exercio1\Dockerfile
     depends_on:
       - database
     ports:
