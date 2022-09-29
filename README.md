@@ -111,7 +111,7 @@ routes:
 
 Comments:
 - the PATH are based on the docker configuration, that is, if you change the application ports in docker compose or try to run the project in a way other than docker, the ports may vary.
-- The application has CPF and Telephone validation, the data must be entered with the ratings and cannot contain letters and spaces (Example: CPF - XXX.XXX.XXX-XX - telephone - (XX)XXXX-XXXX ).
+- The application has CPF and Telephone validation, the data must be entered with the ratings and cannot contain letters and spaces (Example: CPF - XXX.XXX.XXX-XX -  Telephone - (XX)XXXX-XXXX ).
 - Salary cannot be less than zero.
 
 
@@ -130,7 +130,7 @@ Comments:
 :heavy_check_mark: build  Test ImpostoDeRendaServices (Exercio 2);\
 :heavy_check_mark: build  Test ImpostoDeRendaController (Exercio 2);\
 :heavy_check_mark: build  Test ImpostoDeRendaController (Exercio 2);\
-:heavy_check_mark: Dockerize  Exercio 2;\
+:heavy_check_mark: Dockerize  Exercio 2;
 
 
 ## :rocket: Technologies ##
